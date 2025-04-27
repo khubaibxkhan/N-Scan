@@ -1,0 +1,5 @@
+N-Scan 
+</br></br>
+A simple yet powerful Python-based network scanner that detects active devices on a local network.</br> It identifies IP addresses , MAC addresses , and open ports , helping users map </br>and monitor their network efficiently. Built as a personal project to practice network</br> programming and ethical scanning techniques. 
+</br></br>
+PUT YOUR IP ADDRESS AND THE DESIRED PORT IN THE FILE BEFORE RUNNING IT...
