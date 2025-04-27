@@ -4,5 +4,5 @@ A simple yet powerful Python-based network scanner that detects active devices o
 </br></br>
 PUT YOUR IP ADDRESS AND THE DESIRED PORT IN THE FILE BEFORE RUNNING IT...
 </br>
-=> To use this tool, open the folder and write: </br>=> 'python3 port_scan.py ip-address start-scanning-from end-scanning-to.
+=> To use this tool, open the folder and write: </br>=> python3 port_scan.py ip-address start-scanning-from end-scanning-to
 </br> </br> example: python3 port_scan.py 196.168.1.1 1 100
