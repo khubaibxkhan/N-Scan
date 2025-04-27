@@ -7,4 +7,6 @@ PUT YOUR IP ADDRESS AND THE DESIRED PORT IN THE FILE BEFORE RUNNING IT...
 => To use this tool, open the folder and write: </br>=> python3 port_scan.py ip-address start-scanning-from end-scanning-to
 </br> </br> example: python3 port_scan.py 196.168.1.1 1 100
 </br></br>
-NOTE: Before using it make sure you open the folder and install "pip install art" in your terminal.
+<h3>NOTE:</h3> Before using it make sure you open the folder and install "pip install art" in your terminal.
+
+
